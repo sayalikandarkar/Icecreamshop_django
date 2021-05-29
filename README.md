@@ -1,6 +1,10 @@
 # Icecreamshop_django
 An application comprising of the django framework to create orders, add them to a cart, checkout the orders.
 
+# How to run the project
+Simply, download the zip, extract the files and run the following command inside the main directory.
+### python manage.py runserver
+
 ## Create a virtual env first and add all the dependencies for your project
   mkvirtualenv icecream
 ### To enter the virtual env created previously
